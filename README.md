@@ -20,3 +20,11 @@
 Далее метод внутри которого цикл с проверкой условия.
 
 Результат цикла выводится в массив "res" через переменную count.
+
+- Ссылка на репозиторий на GitHub: [github.com/Denis-Suchkov/Final_Test_Work.git][] 
+
+[github.com/Denis-Suchkov/Final_Test_Work.git]: https://github.com/Denis-Suchkov/Final_Test_Work.git
+
+- Блок-схема алгоритма
+
+![](pic\BlockDiagram.png)
