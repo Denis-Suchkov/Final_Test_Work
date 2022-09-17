@@ -25,6 +25,13 @@
 
 [github.com/Denis-Suchkov/Final_Test_Work.git]: https://github.com/Denis-Suchkov/Final_Test_Work.git
 
-- Блок-схема алгоритма
+
+- Блок-схема алгоритма:
 
 ![](pic\BlockDiagram.png)
+
+
+- Коммиты:
+
+![](pic\git_reflog.png)
+
