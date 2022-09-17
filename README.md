@@ -35,10 +35,10 @@
 
 - Блок-схема алгоритма:
 
-![](pic\BlockDiagram.png)
+![](BlockDiagram.png)
 
 
 - Коммиты:
 
-![](pic\git_reflog.png)
+![](git_reflog.png)
 
